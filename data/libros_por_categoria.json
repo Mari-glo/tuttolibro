@@ -1,0 +1,126 @@
+[{
+    "id": 1,
+    "titulo": "Matar a un ruiseñor",
+    "autor": "Harper Lee",
+    "price": 14900,
+    "category": "Drama",
+    "stock": 94,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 2,
+    "titulo": "El Gran Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "price": 8900,
+    "category": "Drama",
+    "stock": 33,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 3,
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "price": 9900,
+    "category": "Novela",
+    "stock": 50,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 4,
+    "titulo": "Crimen y castigo",
+    "autor": "Fiódor Dostoyevski",
+    "price": 8900,
+    "category": "Novela",
+    "stock": 44,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 5,
+    "titulo": "Soldados de Salamina",
+    "autor": "Javier Cercas",
+    "price": 13300,
+    "category": "Novela histórica",
+    "stock": 63,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 6,
+    "titulo": "La catedral del mar",
+    "autor": "Ildefonso Falcones",
+    "price": 14900,
+    "category": "Novela histórica",
+    "stock": 66,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 7,
+    "titulo": "Inés y la alegría",
+    "autor": "Almudena Grandes",
+    "price": 12900,
+    "category": "Novela histórica",
+    "stock": 24,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 8,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "price": 7500,
+    "category": "Ficción",
+    "stock": 35,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 9,
+    "titulo": "El guardián entre el centeno",
+    "autor": "J.D. Salinger",
+    "price": 12300,
+    "category": "Ficción",
+    "stock": 55,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 10,
+    "titulo": "El Señor de los Anillos",
+    "autor": "J.R.R. Tolkien",
+    "price": 23300,
+    "category": "Fantasía",
+    "stock": 45,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 11,
+    "titulo": "Harry Potter y la piedra filosofal",
+    "autor": "J.K. Rowling",
+    "price": 15890,
+    "category": "Fantasía",
+    "stock": 23,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 12,
+    "titulo": "El Exorcista",
+    "autor": "William Peter Blatty",
+    "price": 8900,
+    "category": "Terror",
+    "stock": 33,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 13,
+    "titulo": "Carrie",
+    "autor": "Stephen King",
+    "price": 9500,
+    "category": "Terror",
+    "stock": 56,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+},
+{
+    "id": 14,
+    "titulo": "Psicosis",
+    "autor": "Robert Bloch",
+    "price": 8900,
+    "category": "Terror",
+    "stock": 65,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+}]
